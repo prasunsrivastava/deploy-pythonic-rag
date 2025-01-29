@@ -339,7 +339,7 @@ Upload a PDF file of the recent DeepSeek-R1 paper and ask the following question
 
 Does this application pass your vibe check? Are there any immediate pitfalls you're noticing?
 
-**The application is not able to reason through the questions asked. It is not able to generate a coherent answer to the second question. It seems as if it got lost in the details and faced challenges in creating a coherent response. Also, it was unable to answer the last question which leads me to think that the model is not able to digest large pieces of context.**
+**The application is not able to reason through the questions asked. In my initial try, the application was not able to generate a coherent answer to the second question. It seemed as if it got lost in the details and faced challenges in creating a coherent response. However, subsequently, I have found that it does answer the question and does a decent job but can tend to get lost sometimes. Also, it was unable to answer the last question which leads me to think that the model is not able to digest large pieces of information.**
 
 ## 🚧 CHALLENGE MODE 🚧
 
