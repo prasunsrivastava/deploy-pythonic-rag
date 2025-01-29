@@ -348,3 +348,7 @@ For the challenge mode, please instead create a simple FastAPI backend with a si
 You can use the same prompt templates and RAG pipeline as we did here - but you'll need to modify the code to work with FastAPI and React.
 
 Deploy this application to Hugging Face Spaces!
+
+_**Completed the challenge mode build.**_
+
+Application is built using plain react and FastAPI backend. Deployed on hugging face spaces using Docker. The challenge was to configure nginx and serve the application while setting up the proxy for backend. Hosted application [here](https://huggingface.co/spaces/itsprasun/pythonic-rag-fastapi-react)
